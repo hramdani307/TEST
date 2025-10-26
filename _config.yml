@@ -1,0 +1,10 @@
+title: "YUI SCRIPT"
+description: "Kumpulan Script Mobile Legends — Update Setiap Minggu!"
+theme: none
+
+defaults:
+  - scope:
+      path: "posts"
+      type: "pages"
+    values:
+      layout: "post"
