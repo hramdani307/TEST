@@ -1,6 +1,6 @@
 YUI SCRIPT — Mobile Legends Scripts
 YUI SCRIPT
-Kumpulan Script Mobile Legends — Update Setiap Minggu!
+Script Mobile Legends Archiev — Update Per Weeks!
 Assassin
 Fighter
 Mage
